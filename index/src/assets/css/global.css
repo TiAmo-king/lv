@@ -1,0 +1,17 @@
+
+html,body,#app{
+    margin: 0;
+    padding: 0;
+    min-width: 40%;
+    width: 1920px;
+    /* width: 100%; */
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.el-table__row:hover > td {
+    background-color: transparent;
+}

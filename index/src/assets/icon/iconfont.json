@@ -1,0 +1,464 @@
+{
+  "id": "2767385",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16648560",
+      "name": "开始",
+      "font_class": "kaishi",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "16648571",
+      "name": "隐藏",
+      "font_class": "yincang",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "16648572",
+      "name": "音乐圈",
+      "font_class": "yinlequan",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "16648579",
+      "name": "收藏",
+      "font_class": "shoucang1",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "19819083",
+      "name": "cymbals",
+      "font_class": "cymbals",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "19819084",
+      "name": "Bass_Drum",
+      "font_class": "Bass_Drum",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "19819085",
+      "name": "cassette_tape",
+      "font_class": "cassette_tape",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "19819086",
+      "name": "CD_Disk",
+      "font_class": "CD_Disk",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "19819087",
+      "name": "gramophone_record",
+      "font_class": "gramophone_record",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "19819088",
+      "name": "accordion",
+      "font_class": "accordion",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "19819089",
+      "name": "Guitar",
+      "font_class": "Guitar",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "19819090",
+      "name": "Drum",
+      "font_class": "Drum",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "19819091",
+      "name": "Cello",
+      "font_class": "Cello",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "19819092",
+      "name": "harp",
+      "font_class": "harp",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "19819093",
+      "name": "Equalizer",
+      "font_class": "Equalizer",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "19819094",
+      "name": "note",
+      "font_class": "note",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "19819095",
+      "name": "music_transcript",
+      "font_class": "music_transcript",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "19819096",
+      "name": "DJ",
+      "font_class": "DJ",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "19819097",
+      "name": "Microphone",
+      "font_class": "Microphone",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "19819098",
+      "name": "Electric_Guitar",
+      "font_class": "Electric_Guitar",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "19819099",
+      "name": "Headphones",
+      "font_class": "Headphones",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "19819100",
+      "name": "maraca",
+      "font_class": "maraca",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "19819101",
+      "name": "Piano",
+      "font_class": "Piano",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "19819103",
+      "name": "MIDI",
+      "font_class": "MIDI",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "19819104",
+      "name": "timpany",
+      "font_class": "timpany",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "19819106",
+      "name": "radio",
+      "font_class": "radio",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "19819107",
+      "name": "Trumpet",
+      "font_class": "Trumpet",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "19819108",
+      "name": "Saxophone",
+      "font_class": "Saxophone",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "19819109",
+      "name": "turntable",
+      "font_class": "turntable",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "19819110",
+      "name": "xylophone",
+      "font_class": "xylophone",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "19819111",
+      "name": "lyre",
+      "font_class": "lyre",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "19819112",
+      "name": "Speaker",
+      "font_class": "Speaker",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "20000259",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16271644",
+      "name": "点赞",
+      "font_class": "dianzan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "18939001",
+      "name": "快退",
+      "font_class": "kuaitui",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "18939002",
+      "name": "快进",
+      "font_class": "kuaijin",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "18939003",
+      "name": "播放中",
+      "font_class": "bofangzhong",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "18939004",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "18939005",
+      "name": "听歌识曲",
+      "font_class": "tinggeshiqu",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "18939006",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "18939007",
+      "name": "上一曲",
+      "font_class": "shangyiqu",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "18939008",
+      "name": "下一曲",
+      "font_class": "xiayiqu",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "18939009",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "18939010",
+      "name": "历史播放",
+      "font_class": "lishibofang",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "18940614",
+      "name": "电台",
+      "font_class": "diantai",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "18941494",
+      "name": "音乐馆",
+      "font_class": "yinleguan",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "18942266",
+      "name": "视频",
+      "font_class": "shipin",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "18958846",
+      "name": "播放列表",
+      "font_class": "bofangliebiao",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "18960093",
+      "name": "音量",
+      "font_class": "yinliang",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "18960322",
+      "name": "播放队列",
+      "font_class": "bofangduilie",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "18961231",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "18961427",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "18962039",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "18962286",
+      "name": "CD",
+      "font_class": "CD",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "18962831",
+      "name": "耳机",
+      "font_class": "erji",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "18963075",
+      "name": "录音",
+      "font_class": "luyin",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "18963668",
+      "name": "随机播放",
+      "font_class": "suijibofang",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "18963837",
+      "name": "顺序播放",
+      "font_class": "shunxubofang",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "18965480",
+      "name": "单曲循环",
+      "font_class": "danquxunhuan",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "18965481",
+      "name": "列表循环",
+      "font_class": "liebiaoxunhuan",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "18965598",
+      "name": "播放MV",
+      "font_class": "bofangMV",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "18965673",
+      "name": "添加到",
+      "font_class": "tianjiadao",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "18965861",
+      "name": "举报",
+      "font_class": "jubao",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "18966796",
+      "name": "会员专享",
+      "font_class": "huiyuanzhuanxiang",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "23532491",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e864",
+      "unicode_decimal": 59492
+    }
+  ]
+}
