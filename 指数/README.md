@@ -13,7 +13,7 @@ npm run serve
 ## 后端接口
 
 ```
-https://binaryify.github.io/NeteaseCloudMusicApi/#/?id=neteasecloudmusicapi
+网易云api
 ```
 
 ## 技术栈
